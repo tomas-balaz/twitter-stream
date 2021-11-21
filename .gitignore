@@ -1,0 +1,5 @@
+*.env
+*.csv
+/responses.txt
+
+/.idea/

@@ -1,0 +1,29 @@
+- id
+- created_at
+- lang
+- source
+- text
+- user_id
+    - user_name
+    - registrated
+    - followers
+    - following
+    - tweets
+- ref_tweet_id
+    - rt_type
+    - rt_created_at
+    - rt_lang
+    - rt_source
+    - rt_text
+    - rt_likes
+    - rt_quotes
+    - rt_replies
+    - rt_retweets
+    - rt_user_id
+        - rt_user_name
+        - rt_registrated
+        - rt_followers
+        - rt_following
+        - rt_tweets
+
+
